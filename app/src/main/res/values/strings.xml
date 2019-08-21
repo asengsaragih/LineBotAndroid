@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Line Bot</string>
+    <string name="data_kosong">Data Masih Kosong. Silahkan Tambahkan Data</string>
+    <string name="contoh_tanggal">2019 05 25</string>
+    <string name="contoh_keterangan">Quiz PBS</string>
+    <string name="emptyConnection">Tidak Ada Koneksi Internet</string>
+</resources>
